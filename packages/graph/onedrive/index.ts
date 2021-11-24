@@ -1,4 +1,5 @@
 import "./users.js";
+import "./groups.js";
 
 export {
     Drive,
